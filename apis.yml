@@ -1,23 +1,58 @@
 aid: applimation
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/applimation.png
 name: Applimation
-description: Applimation is a company surfaced as a portfolio company of battery-ventures and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: Applimation was a provider of application Information Lifecycle Management (ILM) and enterprise
+  data archiving software for packaged applications including SAP (ERP, HR, CRM, SRM, SCM, APO) and Oracle
+  environments, helping customers manage the full data lifecycle from test-data management through archiving
+  of inactive data to lower storage and database costs and improve application performance. Informatica
+  acquired Applimation for approximately $40 million in an agreement announced in February 2009, folding
+  its ILM and database-archiving technology into Informatica's data management portfolio. Applimation
+  no longer operates as an independent company and publishes no developer surface, API, or documentation.
 url: https://raw.githubusercontent.com/api-evangelist/applimation/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - battery-ventures
 x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier-reason: defunct-acquired
+x-status: acquired
+x-acquired-by: informatica
+x-acquired-year: '2009'
+x-acquired-amount-usd: 40000000
+x-enrichment-note: Defunct company acquired by Informatica in 2009; no live domain, API, or developer
+  surface exists to enrich. Domain applimation.com resolves to a legacy IP but serves no web content
+  (HTTP/HTTPS connections time out). No artifacts producible without fabrication.
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Data Management
+- Information Lifecycle Management
+- Data Archiving
+- Enterprise Software
+- SAP
+- Acquired
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
