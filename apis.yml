@@ -33,7 +33,7 @@ x-acquired-amount-usd: 40000000
 x-enrichment-note: Defunct company acquired by Informatica in 2009; no live domain, API, or developer
   surface exists to enrich. Domain applimation.com resolves to a legacy IP but serves no web content
   (HTTP/HTTPS connections time out). No artifacts producible without fabrication.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
