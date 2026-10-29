@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Applimation is a company surfaced as a portfolio company of battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: battery-ventures
+Applimation was a provider of application Information Lifecycle Management (ILM) and enterprise data archiving software for packaged applications including SAP (ERP, HR, CRM, SRM, SCM, APO) and Oracle environments, helping customers manage the full data lifecycle from test-data management through archiving of inactive data to lower storage and database costs and improve application performance. Informatica acquired Applimation for approximately $40 million in an agreement announced in February 2009, folding its ILM and database-archiving technology into Informatica's data management portfolio. Applimation no longer operates as an independent company and publishes no developer surface, API, or documentation.
+
+**Areas:** Company · Data Management · Information Lifecycle Management · Data Archiving · Enterprise Software · SAP · Acquired · Defunct
+
+## Applimation on APIs.io (historical record)
+
+Everything profiled for Applimation is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/applimation/](https://apis.io/providers/applimation/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Applimation: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/applimation/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
